@@ -1,5 +1,5 @@
 # Kill
-A simple Plugin that just kills the player who types /kill.
+A simple plugin that just kills the player who types /kill.
 
 ### Stats
 
