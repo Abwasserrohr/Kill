@@ -1,0 +1,7 @@
+name: Kill
+main: me.skyroad.abwasserrohr.Kill
+version: 1
+commands:
+  kill:
+    description: Kills yourself
+    usage: /<command>
